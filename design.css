@@ -1242,7 +1242,7 @@
             z-index: 2;
             box-shadow: 0 1rem 1rem var(--color-light);
             margin: 0;
-            justify-content: end;
+           /* justify-content: end;*/
         }
         .right-side .nav .right-corner{
             display: inline-block;
@@ -1482,7 +1482,7 @@
             z-index: 2;
             box-shadow: 0 1rem 1rem var(--color-light);
             margin: 0;
-            justify-content: end;
+       /*     justify-content: end;*/
         }
 
         .right-side .nav .dark-mode{
